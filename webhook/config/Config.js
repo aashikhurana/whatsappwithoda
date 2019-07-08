@@ -1,6 +1,6 @@
 // ODA Details
-module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://whatsappdigitalassistant.herokuapp.com/bot/message';
-module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'ODA_WEBHOOK_SECRET';
+module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://botphx1I0014H76DC67bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/2c5316e8-9acc-4585-a707-b01f5015a319';
+module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'GtXasIsAhk4QKE85QNnf1SKFubiOOvyB';
 
 // Smooch Details
 exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5cda2f657d26180010c43fce';
