@@ -4,7 +4,7 @@ module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'mrDUrrNh8
 
 // Smooch Details
 exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5d7b41ecaa6a4d0011ebd702';
-exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'SMOOCH_KEY_ID';
+exports.SMOOCH_KEY_ID = process.env.SMOOCH_KEY_ID || 'app_5d9d4be856ded400109beaf6';
 exports.SMOOCH_SECRET = process.env.SMOOCH_SECRET || '3BZzNFG0mTdGpyurvefl7Tj6Q6W6tzn19DiLxOY3eho3bf53npH3zs207mnEo1Ixh9-eCqvH3cq2eCbI3tsPuQ';
 exports.SMOOCH_WEBHOOK_SECRET = process.env.SMOOCH_WEBHOOK_SECRET || 'TzcdTiXIm5l_SBpUumkTxZ04MyHwZCDEGpjnIMKcjMD19sSi9tXC__snLlWQG28nQMHFENlfe81xIcYHLXtdZg';
 
