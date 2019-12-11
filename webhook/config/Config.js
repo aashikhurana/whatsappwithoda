@@ -1,6 +1,6 @@
 // ODA Details
-module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://botphx1I0014H76DC67bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/ae74af93-cf98-4645-8af1-1c7c1f0ab157';
-module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'PMsQIg6EJN18yJSKehjs8abi0JQ84kQG';
+module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://botphx1I0014H76DC67bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/2c5316e8-9acc-4585-a707-b01f5015a319';
+module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'GtXasIsAhk4QKE85QNnf1SKFubiOOvyB';
 
 // Smooch Details
 exports.SMOOCH_APP_ID = process.env.SMOOCH_APP_ID || '5dc3944204f05100107a0ef8';
